@@ -1,5 +1,8 @@
 {
+    "name": "shop-khairul/api",
+    "description": "API for Flutter Shop",
     "require": {
-        "php": ">=8.1.0"
-    }
+        "php": ">=8.1"
+    },
+    "license": "MIT"
 }
